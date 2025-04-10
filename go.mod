@@ -1,4 +1,4 @@
-module github.com/vmware/go-nfs-client
+module github.com/minjejeon/go-nfs-client
 
 go 1.15
 
